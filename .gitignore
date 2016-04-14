@@ -60,3 +60,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Data files
+data/
+
+# Intermediate models
+models/
+
+# Results csv
+results
